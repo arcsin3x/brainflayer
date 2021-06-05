@@ -85,7 +85,7 @@ int main(int argc, char **argv) {
     //fprintf(ofile, "%s\n", hex(hash.uc, sizeof(hash.uc), buf, sizeof(buf)));
     fprintf(ofile, "%s", line);
   }
-
+0
   return 0;
 }
 
