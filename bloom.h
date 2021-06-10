@@ -67,4 +67,4 @@ static unsigned int bloom_chk_hash160(unsigned char *bloom, uint32_t *h) {
 //int bloom_save(unsigned char *, unsigned char *);
 
 /*  vim: set ts=2 sw=2 et ai si: */
-#endif /* __BRAINFLAYER_BLOOM_H_ */0
+#endif /* __BRAINFLAYER_BLOOM_H_ */
